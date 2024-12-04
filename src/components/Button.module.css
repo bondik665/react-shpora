@@ -1,0 +1,19 @@
+
+
+
+.btn{
+    width: 120px;
+    height: 60px;
+    padding: 6px;
+}
+
+.active{
+    background-color: aqua;
+    width: 120px;
+    height: 60px;
+    padding: 6px;
+}
+.btn:disabled{
+    cursor: not-allowed;
+}
+
